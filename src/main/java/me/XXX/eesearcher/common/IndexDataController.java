@@ -6,7 +6,6 @@ import com.google.inject.Inject;
 import com.google.inject.name.Named;
 import com.zaxxer.hikari.pool.HikariPool;
 import me.XXX.eesearcher.data.*;
-import me.andrewandy.eesearcher.data.*;
 import org.apache.pdfbox.io.RandomAccessBufferedFileInputStream;
 import org.apache.pdfbox.pdfparser.PDFParser;
 import org.jetbrains.annotations.NotNull;
